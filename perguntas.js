@@ -1,5 +1,5 @@
 criaCartao(
-    'Jogos'
+    'Jogos,
     'O que é Minecraft??',
     'O Minecraft é um jogo eletronico'
 )
